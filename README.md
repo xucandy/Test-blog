@@ -143,7 +143,7 @@ node 版本18.19以上，该代码的node版本是 18.19.1，可用nvm控制版�
 
 ## 部署
 
-因为不是纯静态的网站，需要新增文章，并且使用了 mysql 数据库，
+因为需要新增文章，并且使用了 mysql 数据库，
 所以就没有用 Vercel 部署，而是使用了自己服务器部署的。
 访问地址：[blog.xujianlei.work](http://blog.xujianlei.work)
 
