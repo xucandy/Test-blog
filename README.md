@@ -87,6 +87,20 @@ BLOG
 ├── blog.sql                       # 数据库备份
 ```
 
+## env 文件修改
+
+```shell
+# 数据库的配置
+DB_HOST=127.0.0.1
+DB_USER=blog
+DB_PASSWORD=12345678
+DB_DATABASE=blog
+CON_LIMIT=10
+# 服务器地址和端口号
+SERVER_HOST=http://127.0.0.1
+SERVER_PORT=3000
+```
+
 ## 运行
 
 ```shell
